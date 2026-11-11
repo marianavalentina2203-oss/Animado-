@@ -1,0 +1,47 @@
+{
+  "titulo": "¿Qué es una angioplastia?",
+  "escenas": [
+    {"id": "e01-coro", "titulo": "Coro, el corazón trabajador", "frases": [
+      "Te presento a Coro, tu corazón.",
+      "Trabaja sin descanso: late unas cien mil veces al día para llevar sangre a todo tu cuerpo."]},
+    {"id": "e02-autopista", "titulo": "La autopista de la comida", "rotulo": "Arterias coronarias", "frases": [
+      "Pero hasta el que trabaja tanto necesita comer.",
+      "Su comida le llega por unas autopistas especiales, las arterias coronarias, donde viajan repartidores cargados de oxígeno."]},
+    {"id": "e03-placa", "titulo": "Llega Don Placa", "rotulo": "Placa = grasa + colesterol + calcio", "frases": [
+      "Con los años, un vecino nada simpático se fue mudando a la autopista: Don Placa, hecho de grasa, colesterol y calcio.",
+      "El cigarrillo, la tensión alta, la diabetes y el sedentarismo le ayudaron a crecer.",
+      "Poco a poco cerró carriles… y se armó la cola."]},
+    {"id": "e04-ayuda", "titulo": "Coro pide ayuda", "frases": [
+      "Sin repartidores, Coro se queda sin energía.",
+      "Y tú lo sientes: dolor u opresión en el pecho, falta de aire o cansancio al caminar o subir escaleras.",
+      "Es su forma de pedir ayuda."]},
+    {"id": "e05-rescate", "titulo": "¡Llega el equipo de rescate!", "rotulo": "Catéter", "frases": [
+      "¡Llegó el equipo de rescate!",
+      "Y lo mejor: no hace falta abrir el pecho.",
+      "Con anestesia local, entran por una puerta pequeñita en la muñeca o en la ingle.",
+      "Por ahí viaja el Tren Catéter, un tubito muy delgado, hasta el corazón."]},
+    {"id": "e06-mapa", "titulo": "El mapa iluminado", "frases": [
+      "Un líquido especial, el contraste, ilumina las autopistas en la pantalla.",
+      "Así el doctor ve exactamente dónde se esconde Don Placa."]},
+    {"id": "e07-globito", "titulo": "¡Fuuum!", "rotulo": "Balón", "frases": [
+      "Entonces entra Globito.",
+      "Se coloca justo en el atasco y… ¡fuuum!",
+      "Se infla, empuja a Don Placa contra la pared y la autopista vuelve a abrirse."]},
+    {"id": "e08-stent", "titulo": "El Capitán Stent", "rotulo": "Stent", "frases": [
+      "Para que el camino no se vuelva a cerrar, aparece el Capitán Stent:",
+      "una mallita de metal que se abre y se queda allí para siempre, sosteniendo la vía.",
+      "Globito y el tren se despiden."]},
+    {"id": "e09-fluye", "titulo": "¡La autopista vuelve a fluir!", "frases": [
+      "¡La sangre vuelve a fluir!",
+      "Los repartidores llegan a tiempo y Coro recupera su energía.",
+      "Por lo general, el procedimiento dura alrededor de una hora, y muchos pacientes vuelven a casa en uno o dos días."]},
+    {"id": "e10-final", "titulo": "Final feliz: un equipo para siempre", "frases": [
+      "Ahora Coro y tú son un equipo:",
+      "toma tus medicamentos como te indicaron, come sano, muévete, no fumes y no faltes a tus controles.",
+      "Así Don Placa no vuelve a mudarse.",
+      {"texto": "¡Gracias por cuidarme!", "voz": "coro"}]},
+    {"id": "e11-cierre", "titulo": "C-Cardio", "frases": [
+      "En C-Cardio cuidamos tu corazón.",
+      "Escríbenos y te ayudamos a resolver todas tus dudas."]}
+  ]
+}

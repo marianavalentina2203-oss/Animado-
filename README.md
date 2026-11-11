@@ -1,54 +1,60 @@
-# Remotion video
+# Animado — "Coro y la autopista atascada"
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+Video animado vertical (1080×1920, 9:16) que explica qué es una angioplastia, hecho con
+[Remotion](https://www.remotion.dev). Basado en el guion "Guion animado: ¿Qué es una angioplastia?".
 
-Welcome to your Remotion project!
+- 11 escenas (10 del guion + cierre de C-Cardio), unos 2 min 19 s.
+- Narración en español generada con Piper (TTS neural local).
+- Subtítulos siempre visibles, sincronizados frase por frase con la voz.
+- Rótulos con las palabras clave: arterias coronarias, placa, catéter, balón, stent.
 
-## Commands
+## Uso
 
-**Install Dependencies**
-
-```console
-npm i --loglevel=error
+```bash
+npm install
+npm run dev                                                   # vista previa en Remotion Studio
+npx remotion render Angioplastia out/angioplastia.mp4         # exportar el MP4
 ```
 
-**Start Preview**
+## Estructura
 
-```console
-npm run dev
+| Archivo | Qué contiene |
+| --- | --- |
+| `src/guion.json` | El texto de la narración, frase por frase |
+| `src/tiempos.json` | Duración de cada escena e inicio/fin de cada frase (generado) |
+| `public/voz/*.mp3` | La voz de cada escena (generada) |
+| `src/personajes.tsx` | Coro, los Repartidores, Don Placa, Globito, Capitán Stent, Tren Catéter, equipo médico y paciente |
+| `src/escenas-a.tsx`, `src/escenas-b.tsx` | Las animaciones de cada escena |
+| `src/Root.tsx` | La composición y los contactos del cierre |
+
+## Cambiar los contactos del cierre
+
+Edita `contactos` en `src/Root.tsx` (teléfono, Instagram, Facebook). Las líneas vacías no se muestran.
+
+## Regenerar o reemplazar la voz
+
+La voz se genera con `scripts/generar-voz.py`:
+
+```bash
+pip install piper-tts
+# Modelo de voz (CC BY 4.0): https://github.com/rhasspy/piper/releases/download/v0.0.2/voice-es-mls_10246-low.tar.gz
+python scripts/generar-voz.py --modelo ruta/a/es-mls_10246-low.onnx
 ```
 
-**Render video**
+Si se cambia el texto en `src/guion.json`, vuelve a ejecutar el script: actualiza los audios y los
+tiempos, y el video se ajusta solo.
 
-```console
-npx remotion render
-```
+Para usar una voz humana: graba una pista por escena, reemplaza los archivos de `public/voz/`
+y ajusta `inicio`/`fin` de cada frase en `src/tiempos.json` para que los subtítulos coincidan.
 
-**Upgrade Remotion**
+## Pendiente antes de publicar
 
-```console
-npx remotion upgrade
-```
+Según las notas del guion, el equipo médico debe confirmar: vía de acceso (muñeca/ingle),
+duración del procedimiento, días de hospitalización, mención de sedación, aviso de emergencias
+en la escena 4 y aprobación final del texto.
 
-## Docs
+## Créditos
 
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+- Voz: modelo Piper `es-mls_10246-low`, entrenado con Multilingual LibriSpeech (CC BY 4.0).
+- Fuente: Nunito (SIL Open Font License), en `public/fonts/`.
+- Remotion es gratis para equipos de hasta 3 personas; las empresas más grandes necesitan licencia.

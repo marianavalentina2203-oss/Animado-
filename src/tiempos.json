@@ -1,0 +1,243 @@
+{
+  "e01-coro": {
+    "duracion": 9.696,
+    "frases": [
+      {
+        "texto": "Te presento a Coro, tu corazón.",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 2.757
+      },
+      {
+        "texto": "Trabaja sin descanso: late unas cien mil veces al día para llevar sangre a todo tu cuerpo.",
+        "voz": "narrador",
+        "inicio": 3.157,
+        "fin": 8.996
+      }
+    ]
+  },
+  "e02-autopista": {
+    "duracion": 11.198,
+    "frases": [
+      {
+        "texto": "Pero hasta el que trabaja tanto necesita comer.",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 3.525
+      },
+      {
+        "texto": "Su comida le llega por unas autopistas especiales, las arterias coronarias, donde viajan repartidores cargados de oxígeno.",
+        "voz": "narrador",
+        "inicio": 3.925,
+        "fin": 10.498
+      }
+    ]
+  },
+  "e03-placa": {
+    "duracion": 17.412,
+    "frases": [
+      {
+        "texto": "Con los años, un vecino nada simpático se fue mudando a la autopista: Don Placa, hecho de grasa, colesterol y calcio.",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 7.096
+      },
+      {
+        "texto": "El cigarrillo, la tensión alta, la diabetes y el sedentarismo le ayudaron a crecer.",
+        "voz": "narrador",
+        "inicio": 7.496,
+        "fin": 12.656
+      },
+      {
+        "texto": "Poco a poco cerró carriles… y se armó la cola.",
+        "voz": "narrador",
+        "inicio": 13.056,
+        "fin": 16.712
+      }
+    ]
+  },
+  "e04-ayuda": {
+    "duracion": 13.243,
+    "frases": [
+      {
+        "texto": "Sin repartidores, Coro se queda sin energía.",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 2.792
+      },
+      {
+        "texto": "Y tú lo sientes: dolor u opresión en el pecho, falta de aire o cansancio al caminar o subir escaleras.",
+        "voz": "narrador",
+        "inicio": 3.192,
+        "fin": 9.738
+      },
+      {
+        "texto": "Es su forma de pedir ayuda.",
+        "voz": "narrador",
+        "inicio": 10.138,
+        "fin": 12.543
+      }
+    ]
+  },
+  "e05-rescate": {
+    "duracion": 16.982,
+    "frases": [
+      {
+        "texto": "¡Llegó el equipo de rescate!",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 3.019
+      },
+      {
+        "texto": "Y lo mejor: no hace falta abrir el pecho.",
+        "voz": "narrador",
+        "inicio": 3.419,
+        "fin": 6.901
+      },
+      {
+        "texto": "Con anestesia local, entran por una puerta pequeñita en la muñeca o en la ingle.",
+        "voz": "narrador",
+        "inicio": 7.301,
+        "fin": 11.161
+      },
+      {
+        "texto": "Por ahí viaja el Tren Catéter, un tubito muy delgado, hasta el corazón.",
+        "voz": "narrador",
+        "inicio": 11.561,
+        "fin": 16.282
+      }
+    ]
+  },
+  "e06-mapa": {
+    "duracion": 9.223,
+    "frases": [
+      {
+        "texto": "Un líquido especial, el contraste, ilumina las autopistas en la pantalla.",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 4.483
+      },
+      {
+        "texto": "Así el doctor ve exactamente dónde se esconde Don Placa.",
+        "voz": "narrador",
+        "inicio": 4.883,
+        "fin": 8.523
+      }
+    ]
+  },
+  "e07-globito": {
+    "duracion": 10.466,
+    "frases": [
+      {
+        "texto": "Entonces entra Globito.",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 1.844
+      },
+      {
+        "texto": "Se coloca justo en el atasco y… ¡fuuum!",
+        "voz": "narrador",
+        "inicio": 2.244,
+        "fin": 5.126
+      },
+      {
+        "texto": "Se infla, empuja a Don Placa contra la pared y la autopista vuelve a abrirse.",
+        "voz": "narrador",
+        "inicio": 5.526,
+        "fin": 9.766
+      }
+    ]
+  },
+  "e08-stent": {
+    "duracion": 13.489,
+    "frases": [
+      {
+        "texto": "Para que el camino no se vuelva a cerrar, aparece el Capitán Stent:",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 5.263
+      },
+      {
+        "texto": "una mallita de metal que se abre y se queda allí para siempre, sosteniendo la vía.",
+        "voz": "narrador",
+        "inicio": 5.663,
+        "fin": 10.237
+      },
+      {
+        "texto": "Globito y el tren se despiden.",
+        "voz": "narrador",
+        "inicio": 10.637,
+        "fin": 12.789
+      }
+    ]
+  },
+  "e09-fluye": {
+    "duracion": 14.86,
+    "frases": [
+      {
+        "texto": "¡La sangre vuelve a fluir!",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 2.548
+      },
+      {
+        "texto": "Los repartidores llegan a tiempo y Coro recupera su energía.",
+        "voz": "narrador",
+        "inicio": 2.948,
+        "fin": 6.661
+      },
+      {
+        "texto": "Por lo general, el procedimiento dura alrededor de una hora, y muchos pacientes vuelven a casa en uno o dos días.",
+        "voz": "narrador",
+        "inicio": 7.061,
+        "fin": 14.16
+      }
+    ]
+  },
+  "e10-final": {
+    "duracion": 14.234,
+    "frases": [
+      {
+        "texto": "Ahora Coro y tú son un equipo:",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 2.874
+      },
+      {
+        "texto": "toma tus medicamentos como te indicaron, come sano, muévete, no fumes y no faltes a tus controles.",
+        "voz": "narrador",
+        "inicio": 3.274,
+        "fin": 9.268
+      },
+      {
+        "texto": "Así Don Placa no vuelve a mudarse.",
+        "voz": "narrador",
+        "inicio": 9.668,
+        "fin": 11.974
+      },
+      {
+        "texto": "¡Gracias por cuidarme!",
+        "voz": "coro",
+        "inicio": 12.374,
+        "fin": 13.534
+      }
+    ]
+  },
+  "e11-cierre": {
+    "duracion": 7.791,
+    "frases": [
+      {
+        "texto": "En C-Cardio cuidamos tu corazón.",
+        "voz": "narrador",
+        "inicio": 0.35,
+        "fin": 3.479
+      },
+      {
+        "texto": "Escríbenos y te ayudamos a resolver todas tus dudas.",
+        "voz": "narrador",
+        "inicio": 3.879,
+        "fin": 7.091
+      }
+    ]
+  }
+}
