@@ -1,0 +1,966 @@
+{
+  "duracion": 59.288,
+  "planos": [
+    {
+      "id": "p01-miedo",
+      "etiqueta": "ANGIOPLASTIA",
+      "texto": "¿Te dijeron que necesitas una angioplastia, y te dio miedo?",
+      "inicio": 0.25,
+      "fin": 3.511,
+      "palabras": [
+        {
+          "w": "¿Te",
+          "inicio": 0.25,
+          "fin": 0.422
+        },
+        {
+          "w": "dijeron",
+          "inicio": 0.422,
+          "fin": 0.861
+        },
+        {
+          "w": "que",
+          "inicio": 0.861,
+          "fin": 1.087
+        },
+        {
+          "w": "necesitas",
+          "inicio": 1.087,
+          "fin": 1.634
+        },
+        {
+          "w": "una",
+          "inicio": 1.634,
+          "fin": 1.859
+        },
+        {
+          "w": "angioplastia,",
+          "inicio": 1.859,
+          "fin": 2.567
+        },
+        {
+          "w": "y",
+          "inicio": 2.664,
+          "fin": 2.782
+        },
+        {
+          "w": "te",
+          "inicio": 2.782,
+          "fin": 2.953
+        },
+        {
+          "w": "dio",
+          "inicio": 2.953,
+          "fin": 3.179
+        },
+        {
+          "w": "miedo?",
+          "inicio": 3.179,
+          "fin": 3.511
+        }
+      ],
+      "transcripcion": "te dijeron que necesitas una angioplastia y te dio miedo.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p02-minuto",
+      "etiqueta": "ANGIOPLASTIA",
+      "texto": "Tranquilo, te lo explico en un minuto.",
+      "inicio": 3.631,
+      "fin": 6.331,
+      "palabras": [
+        {
+          "w": "Tranquilo,",
+          "inicio": 3.631,
+          "fin": 4.316
+        },
+        {
+          "w": "te",
+          "inicio": 4.437,
+          "fin": 4.652
+        },
+        {
+          "w": "lo",
+          "inicio": 4.652,
+          "fin": 4.867
+        },
+        {
+          "w": "explico",
+          "inicio": 4.867,
+          "fin": 5.418
+        },
+        {
+          "w": "en",
+          "inicio": 5.418,
+          "fin": 5.633
+        },
+        {
+          "w": "un",
+          "inicio": 5.633,
+          "fin": 5.848
+        },
+        {
+          "w": "minuto.",
+          "inicio": 5.848,
+          "fin": 6.331
+        }
+      ],
+      "transcripcion": "tranquilo te lo explico en un minuto",
+      "parecido": 1.0
+    },
+    {
+      "id": "p03-jose",
+      "etiqueta": "EL CASO",
+      "texto": "Él es Don José.",
+      "inicio": 6.451,
+      "fin": 7.943,
+      "palabras": [
+        {
+          "w": "Él",
+          "inicio": 6.451,
+          "fin": 6.753
+        },
+        {
+          "w": "es",
+          "inicio": 6.753,
+          "fin": 7.055
+        },
+        {
+          "w": "Don",
+          "inicio": 7.055,
+          "fin": 7.452
+        },
+        {
+          "w": "José.",
+          "inicio": 7.452,
+          "fin": 7.943
+        }
+      ],
+      "transcripcion": "El es Don José",
+      "parecido": 1.0
+    },
+    {
+      "id": "p04-escaleras",
+      "etiqueta": "EL CASO",
+      "texto": "Un día, subiendo las escaleras, sintió una presión en el pecho.",
+      "inicio": 8.063,
+      "fin": 12.089,
+      "palabras": [
+        {
+          "w": "Un",
+          "inicio": 8.063,
+          "fin": 8.256
+        },
+        {
+          "w": "día,",
+          "inicio": 8.256,
+          "fin": 8.509
+        },
+        {
+          "w": "subiendo",
+          "inicio": 8.617,
+          "fin": 9.172
+        },
+        {
+          "w": "las",
+          "inicio": 9.172,
+          "fin": 9.425
+        },
+        {
+          "w": "escaleras,",
+          "inicio": 9.425,
+          "fin": 10.04
+        },
+        {
+          "w": "sintió",
+          "inicio": 10.148,
+          "fin": 10.582
+        },
+        {
+          "w": "una",
+          "inicio": 10.582,
+          "fin": 10.835
+        },
+        {
+          "w": "presión",
+          "inicio": 10.835,
+          "fin": 11.329
+        },
+        {
+          "w": "en",
+          "inicio": 11.329,
+          "fin": 11.522
+        },
+        {
+          "w": "el",
+          "inicio": 11.522,
+          "fin": 11.715
+        },
+        {
+          "w": "pecho.",
+          "inicio": 11.715,
+          "fin": 12.089
+        }
+      ],
+      "transcripcion": "un día subiendo las escaleras sintió una presión en el pecho.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p05-arteria",
+      "etiqueta": "EL CASO",
+      "texto": "Su cardiólogo le explicó: una arteria de su corazón estaba tapada por grasa.",
+      "inicio": 12.209,
+      "fin": 16.664,
+      "palabras": [
+        {
+          "w": "Su",
+          "inicio": 12.209,
+          "fin": 12.386
+        },
+        {
+          "w": "cardiólogo",
+          "inicio": 12.386,
+          "fin": 13.005
+        },
+        {
+          "w": "le",
+          "inicio": 13.005,
+          "fin": 13.182
+        },
+        {
+          "w": "explicó:",
+          "inicio": 13.182,
+          "fin": 13.635
+        },
+        {
+          "w": "una",
+          "inicio": 13.801,
+          "fin": 14.033
+        },
+        {
+          "w": "arteria",
+          "inicio": 14.033,
+          "fin": 14.486
+        },
+        {
+          "w": "de",
+          "inicio": 14.486,
+          "fin": 14.663
+        },
+        {
+          "w": "su",
+          "inicio": 14.663,
+          "fin": 14.84
+        },
+        {
+          "w": "corazón",
+          "inicio": 14.84,
+          "fin": 15.293
+        },
+        {
+          "w": "estaba",
+          "inicio": 15.293,
+          "fin": 15.691
+        },
+        {
+          "w": "tapada",
+          "inicio": 15.691,
+          "fin": 16.089
+        },
+        {
+          "w": "por",
+          "inicio": 16.089,
+          "fin": 16.321
+        },
+        {
+          "w": "grasa.",
+          "inicio": 16.321,
+          "fin": 16.664
+        }
+      ],
+      "transcripcion": "Su cardiólogo le explicó una arteria de su corazón estaba tapada por grasa.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p06-tuberia",
+      "etiqueta": "IMAGINA",
+      "texto": "Piénsalo así: si en tu casa se tapa una tubería…",
+      "inicio": 16.784,
+      "fin": 20.243,
+      "palabras": [
+        {
+          "w": "Piénsalo",
+          "inicio": 16.784,
+          "fin": 17.396
+        },
+        {
+          "w": "así:",
+          "inicio": 17.396,
+          "fin": 17.675
+        },
+        {
+          "w": "si",
+          "inicio": 17.875,
+          "fin": 18.087
+        },
+        {
+          "w": "en",
+          "inicio": 18.087,
+          "fin": 18.3
+        },
+        {
+          "w": "tu",
+          "inicio": 18.3,
+          "fin": 18.513
+        },
+        {
+          "w": "casa",
+          "inicio": 18.513,
+          "fin": 18.859
+        },
+        {
+          "w": "se",
+          "inicio": 18.859,
+          "fin": 19.072
+        },
+        {
+          "w": "tapa",
+          "inicio": 19.072,
+          "fin": 19.418
+        },
+        {
+          "w": "una",
+          "inicio": 19.418,
+          "fin": 19.697
+        },
+        {
+          "w": "tubería…",
+          "inicio": 19.697,
+          "fin": 20.243
+        }
+      ],
+      "transcripcion": "piénsalo así, si en tu casa se tapa una tubería.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p07-plomero",
+      "etiqueta": "IMAGINA",
+      "texto": "no tumbas la pared: llamas a un plomerito.",
+      "inicio": 20.363,
+      "fin": 23.3,
+      "palabras": [
+        {
+          "w": "no",
+          "inicio": 20.363,
+          "fin": 20.569
+        },
+        {
+          "w": "tumbas",
+          "inicio": 20.569,
+          "fin": 21.033
+        },
+        {
+          "w": "la",
+          "inicio": 21.033,
+          "fin": 21.239
+        },
+        {
+          "w": "pared:",
+          "inicio": 21.239,
+          "fin": 21.638
+        },
+        {
+          "w": "llamas",
+          "inicio": 21.831,
+          "fin": 22.295
+        },
+        {
+          "w": "a",
+          "inicio": 22.295,
+          "fin": 22.437
+        },
+        {
+          "w": "un",
+          "inicio": 22.437,
+          "fin": 22.643
+        },
+        {
+          "w": "plomerito.",
+          "inicio": 22.643,
+          "fin": 23.3
+        }
+      ],
+      "transcripcion": "No tumbas la pared, llamas a un plomerito.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p08-titulo",
+      "etiqueta": "QUÉ ES",
+      "texto": "Y eso hace la angioplastia en tu corazón.",
+      "inicio": 23.42,
+      "fin": 26.281,
+      "palabras": [
+        {
+          "w": "Y",
+          "inicio": 23.42,
+          "fin": 23.567
+        },
+        {
+          "w": "eso",
+          "inicio": 23.567,
+          "fin": 23.849
+        },
+        {
+          "w": "hace",
+          "inicio": 23.849,
+          "fin": 24.199
+        },
+        {
+          "w": "la",
+          "inicio": 24.199,
+          "fin": 24.414
+        },
+        {
+          "w": "angioplastia",
+          "inicio": 24.414,
+          "fin": 25.3
+        },
+        {
+          "w": "en",
+          "inicio": 25.3,
+          "fin": 25.515
+        },
+        {
+          "w": "tu",
+          "inicio": 25.515,
+          "fin": 25.73
+        },
+        {
+          "w": "corazón.",
+          "inicio": 25.73,
+          "fin": 26.281
+        }
+      ],
+      "transcripcion": "y eso hace la angioplastia en tu corazón.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p09-muneca",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Sin abrir el pecho, entran por la muñeca, con anestesia local.",
+      "inicio": 26.401,
+      "fin": 30.748,
+      "palabras": [
+        {
+          "w": "Sin",
+          "inicio": 26.401,
+          "fin": 26.678
+        },
+        {
+          "w": "abrir",
+          "inicio": 26.678,
+          "fin": 27.088
+        },
+        {
+          "w": "el",
+          "inicio": 27.088,
+          "fin": 27.299
+        },
+        {
+          "w": "pecho,",
+          "inicio": 27.299,
+          "fin": 27.709
+        },
+        {
+          "w": "entran",
+          "inicio": 27.828,
+          "fin": 28.303
+        },
+        {
+          "w": "por",
+          "inicio": 28.303,
+          "fin": 28.581
+        },
+        {
+          "w": "la",
+          "inicio": 28.581,
+          "fin": 28.792
+        },
+        {
+          "w": "muñeca,",
+          "inicio": 28.792,
+          "fin": 29.268
+        },
+        {
+          "w": "con",
+          "inicio": 29.387,
+          "fin": 29.664
+        },
+        {
+          "w": "anestesia",
+          "inicio": 29.664,
+          "fin": 30.338
+        },
+        {
+          "w": "local.",
+          "inicio": 30.338,
+          "fin": 30.748
+        }
+      ],
+      "transcripcion": "Sin abrir el pecho, entran por la muñeca con anestesía local.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p10-cateter",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Un tubito muy fino, el catéter, viaja hasta la arteria tapada.",
+      "inicio": 30.868,
+      "fin": 34.791,
+      "palabras": [
+        {
+          "w": "Un",
+          "inicio": 30.868,
+          "fin": 31.059
+        },
+        {
+          "w": "tubito",
+          "inicio": 31.059,
+          "fin": 31.488
+        },
+        {
+          "w": "muy",
+          "inicio": 31.488,
+          "fin": 31.738
+        },
+        {
+          "w": "fino,",
+          "inicio": 31.738,
+          "fin": 32.048
+        },
+        {
+          "w": "el",
+          "inicio": 32.156,
+          "fin": 32.346
+        },
+        {
+          "w": "catéter,",
+          "inicio": 32.346,
+          "fin": 32.835
+        },
+        {
+          "w": "viaja",
+          "inicio": 32.943,
+          "fin": 33.312
+        },
+        {
+          "w": "hasta",
+          "inicio": 33.312,
+          "fin": 33.682
+        },
+        {
+          "w": "la",
+          "inicio": 33.682,
+          "fin": 33.873
+        },
+        {
+          "w": "arteria",
+          "inicio": 33.873,
+          "fin": 34.361
+        },
+        {
+          "w": "tapada.",
+          "inicio": 34.361,
+          "fin": 34.791
+        }
+      ],
+      "transcripcion": "Un tubito muy fino, el cateter viaja hasta la arteria tapada.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p11-balon",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Allí se infla un globito que aplasta la grasa contra la pared.",
+      "inicio": 34.911,
+      "fin": 38.713,
+      "palabras": [
+        {
+          "w": "Allí",
+          "inicio": 34.911,
+          "fin": 35.218
+        },
+        {
+          "w": "se",
+          "inicio": 35.218,
+          "fin": 35.407
+        },
+        {
+          "w": "infla",
+          "inicio": 35.407,
+          "fin": 35.773
+        },
+        {
+          "w": "un",
+          "inicio": 35.773,
+          "fin": 35.962
+        },
+        {
+          "w": "globito",
+          "inicio": 35.962,
+          "fin": 36.446
+        },
+        {
+          "w": "que",
+          "inicio": 36.446,
+          "fin": 36.694
+        },
+        {
+          "w": "aplasta",
+          "inicio": 36.694,
+          "fin": 37.178
+        },
+        {
+          "w": "la",
+          "inicio": 37.178,
+          "fin": 37.367
+        },
+        {
+          "w": "grasa",
+          "inicio": 37.367,
+          "fin": 37.733
+        },
+        {
+          "w": "contra",
+          "inicio": 37.733,
+          "fin": 38.158
+        },
+        {
+          "w": "la",
+          "inicio": 38.158,
+          "fin": 38.347
+        },
+        {
+          "w": "pared.",
+          "inicio": 38.347,
+          "fin": 38.713
+        }
+      ],
+      "transcripcion": "Allí se infla un globito que aplasta la grasa contra la pared.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p12-stent",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Y se queda un stent: una mallita que mantiene la arteria abierta.",
+      "inicio": 38.833,
+      "fin": 42.323,
+      "palabras": [
+        {
+          "w": "Y",
+          "inicio": 38.833,
+          "fin": 38.943
+        },
+        {
+          "w": "se",
+          "inicio": 38.943,
+          "fin": 39.104
+        },
+        {
+          "w": "queda",
+          "inicio": 39.104,
+          "fin": 39.416
+        },
+        {
+          "w": "un",
+          "inicio": 39.416,
+          "fin": 39.577
+        },
+        {
+          "w": "stent:",
+          "inicio": 39.577,
+          "fin": 39.889
+        },
+        {
+          "w": "una",
+          "inicio": 40.04,
+          "fin": 40.251
+        },
+        {
+          "w": "mallita",
+          "inicio": 40.251,
+          "fin": 40.663
+        },
+        {
+          "w": "que",
+          "inicio": 40.663,
+          "fin": 40.875
+        },
+        {
+          "w": "mantiene",
+          "inicio": 40.875,
+          "fin": 41.337
+        },
+        {
+          "w": "la",
+          "inicio": 41.337,
+          "fin": 41.498
+        },
+        {
+          "w": "arteria",
+          "inicio": 41.498,
+          "fin": 41.911
+        },
+        {
+          "w": "abierta.",
+          "inicio": 41.911,
+          "fin": 42.323
+        }
+      ],
+      "transcripcion": "y se queda un stand, una mallita que mantiene la arteria abierta.",
+      "parecido": 0.917
+    },
+    {
+      "id": "p13-hora",
+      "etiqueta": "DESPUÉS",
+      "texto": "En más o menos una hora, la sangre vuelve a pasar.",
+      "inicio": 42.443,
+      "fin": 45.349,
+      "palabras": [
+        {
+          "w": "En",
+          "inicio": 42.443,
+          "fin": 42.619
+        },
+        {
+          "w": "más",
+          "inicio": 42.619,
+          "fin": 42.849
+        },
+        {
+          "w": "o",
+          "inicio": 42.849,
+          "fin": 42.97
+        },
+        {
+          "w": "menos",
+          "inicio": 42.97,
+          "fin": 43.309
+        },
+        {
+          "w": "una",
+          "inicio": 43.309,
+          "fin": 43.54
+        },
+        {
+          "w": "hora,",
+          "inicio": 43.54,
+          "fin": 43.825
+        },
+        {
+          "w": "la",
+          "inicio": 43.923,
+          "fin": 44.099
+        },
+        {
+          "w": "sangre",
+          "inicio": 44.099,
+          "fin": 44.494
+        },
+        {
+          "w": "vuelve",
+          "inicio": 44.494,
+          "fin": 44.888
+        },
+        {
+          "w": "a",
+          "inicio": 44.888,
+          "fin": 45.009
+        },
+        {
+          "w": "pasar.",
+          "inicio": 45.009,
+          "fin": 45.349
+        }
+      ],
+      "transcripcion": "En más o menos una hora la sangre vuelve a pasar.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p14-casa",
+      "etiqueta": "DESPUÉS",
+      "texto": "Al día siguiente, Don José ya estaba en su casa.",
+      "inicio": 45.469,
+      "fin": 48.383,
+      "palabras": [
+        {
+          "w": "Al",
+          "inicio": 45.469,
+          "fin": 45.652
+        },
+        {
+          "w": "día",
+          "inicio": 45.652,
+          "fin": 45.893
+        },
+        {
+          "w": "siguiente,",
+          "inicio": 45.893,
+          "fin": 46.478
+        },
+        {
+          "w": "Don",
+          "inicio": 46.582,
+          "fin": 46.823
+        },
+        {
+          "w": "José",
+          "inicio": 46.823,
+          "fin": 47.121
+        },
+        {
+          "w": "ya",
+          "inicio": 47.121,
+          "fin": 47.305
+        },
+        {
+          "w": "estaba",
+          "inicio": 47.305,
+          "fin": 47.718
+        },
+        {
+          "w": "en",
+          "inicio": 47.718,
+          "fin": 47.901
+        },
+        {
+          "w": "su",
+          "inicio": 47.901,
+          "fin": 48.085
+        },
+        {
+          "w": "casa.",
+          "inicio": 48.085,
+          "fin": 48.383
+        }
+      ],
+      "transcripcion": "Al día siguiente, Don José estaba en su casa.",
+      "parecido": 0.947
+    },
+    {
+      "id": "p15-habitos",
+      "etiqueta": "DESPUÉS",
+      "texto": "Ahora se cuida: toma sus medicinas, come sano y camina.",
+      "inicio": 48.503,
+      "fin": 52.703,
+      "palabras": [
+        {
+          "w": "Ahora",
+          "inicio": 48.503,
+          "fin": 48.939
+        },
+        {
+          "w": "se",
+          "inicio": 48.939,
+          "fin": 49.163
+        },
+        {
+          "w": "cuida:",
+          "inicio": 49.163,
+          "fin": 49.599
+        },
+        {
+          "w": "toma",
+          "inicio": 49.81,
+          "fin": 50.175
+        },
+        {
+          "w": "sus",
+          "inicio": 50.175,
+          "fin": 50.47
+        },
+        {
+          "w": "medicinas,",
+          "inicio": 50.47,
+          "fin": 51.186
+        },
+        {
+          "w": "come",
+          "inicio": 51.313,
+          "fin": 51.678
+        },
+        {
+          "w": "sano",
+          "inicio": 51.678,
+          "fin": 52.043
+        },
+        {
+          "w": "y",
+          "inicio": 52.043,
+          "fin": 52.198
+        },
+        {
+          "w": "camina.",
+          "inicio": 52.198,
+          "fin": 52.703
+        }
+      ],
+      "transcripcion": "ahora se cuida, toma sus medicinas, come sano y camina.",
+      "parecido": 1.0
+    },
+    {
+      "id": "p16-cierre",
+      "etiqueta": "C-CARDIO",
+      "texto": "¿Tienes dudas? Escríbenos. Somos C-Cardio, y cuidamos tu corazón.",
+      "inicio": 52.823,
+      "fin": 58.088,
+      "palabras": [
+        {
+          "w": "¿Tienes",
+          "inicio": 52.823,
+          "fin": 53.368
+        },
+        {
+          "w": "dudas?",
+          "inicio": 53.368,
+          "fin": 53.837
+        },
+        {
+          "w": "Escríbenos.",
+          "inicio": 54.064,
+          "fin": 54.911
+        },
+        {
+          "w": "Somos",
+          "inicio": 55.138,
+          "fin": 55.607
+        },
+        {
+          "w": "C-Cardio,",
+          "inicio": 55.607,
+          "fin": 56.227
+        },
+        {
+          "w": "y",
+          "inicio": 56.364,
+          "fin": 56.53
+        },
+        {
+          "w": "cuidamos",
+          "inicio": 56.53,
+          "fin": 57.226
+        },
+        {
+          "w": "tu",
+          "inicio": 57.226,
+          "fin": 57.468
+        },
+        {
+          "w": "corazón.",
+          "inicio": 57.468,
+          "fin": 58.088
+        }
+      ],
+      "transcripcion": "tienes dudas, escribenos somos C-cardio y cuidamos tu corazón.",
+      "parecido": 1.0
+    }
+  ]
+}

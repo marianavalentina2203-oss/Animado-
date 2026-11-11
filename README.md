@@ -1,4 +1,29 @@
-# Animado — "Coro y la autopista atascada"
+# Animado — videos sobre la angioplastia (C-Cardio)
+
+Dos videos verticales (1080×1920) hechos con [Remotion](https://www.remotion.dev):
+
+| Composición | Historia | Duración |
+| --- | --- | --- |
+| `ReelAngioplastia` | "Don José y la tubería tapada": reel para Instagram, voz masculina, subtítulos palabra por palabra | 59 s |
+| `Angioplastia` | "Coro y la autopista atascada": versión larga con personajes | 2 min 19 s |
+
+## Reel "Don José y la tubería tapada"
+
+```bash
+npx remotion render ReelAngioplastia out/reel-angioplastia.mp4
+```
+
+- Guion por planos en `src/reel/guion.json`; código en `src/reel/`.
+- Voz: Piper `es_MX-ald-medium` (masculina, acento latino), acelerada ×1.1.
+  Se genera con `scripts/generar-voz-reel.py`, que transcribe cada toma con Whisper
+  y la repite si no se entiende (ver instrucciones al inicio del script).
+- Estilo: fondo crema punteado, ilustración plana con contorno azul marino, etiqueta de
+  sección, subtítulo karaoke con la palabra actual resaltada en amarillo y barra de
+  cuenta regresiva.
+
+---
+
+# Versión larga — "Coro y la autopista atascada"
 
 Video animado vertical (1080×1920, 9:16) que explica qué es una angioplastia, hecho con
 [Remotion](https://www.remotion.dev). Basado en el guion "Guion animado: ¿Qué es una angioplastia?".

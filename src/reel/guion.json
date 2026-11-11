@@ -1,0 +1,85 @@
+{
+  "titulo": "Don José y la tubería tapada",
+  "planos": [
+    {
+      "id": "p01-miedo",
+      "etiqueta": "ANGIOPLASTIA",
+      "texto": "¿Te dijeron que necesitas una angioplastia, y te dio miedo?"
+    },
+    {
+      "id": "p02-minuto",
+      "etiqueta": "ANGIOPLASTIA",
+      "texto": "Tranquilo, te lo explico en un minuto."
+    },
+    {
+      "id": "p03-jose",
+      "etiqueta": "EL CASO",
+      "texto": "Él es Don José."
+    },
+    {
+      "id": "p04-escaleras",
+      "etiqueta": "EL CASO",
+      "texto": "Un día, subiendo las escaleras, sintió una presión en el pecho."
+    },
+    {
+      "id": "p05-arteria",
+      "etiqueta": "EL CASO",
+      "texto": "Su cardiólogo le explicó: una arteria de su corazón estaba tapada por grasa."
+    },
+    {
+      "id": "p06-tuberia",
+      "etiqueta": "IMAGINA",
+      "texto": "Piénsalo así: si en tu casa se tapa una tubería…"
+    },
+    {
+      "id": "p07-plomero",
+      "etiqueta": "IMAGINA",
+      "texto": "no tumbas la pared: llamas a un plomerito."
+    },
+    {
+      "id": "p08-titulo",
+      "etiqueta": "QUÉ ES",
+      "texto": "Y eso hace la angioplastia en tu corazón."
+    },
+    {
+      "id": "p09-muneca",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Sin abrir el pecho, entran por la muñeca, con anestesia local."
+    },
+    {
+      "id": "p10-cateter",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Un tubito muy fino, el catéter, viaja hasta la arteria tapada."
+    },
+    {
+      "id": "p11-balon",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Allí se infla un globito que aplasta la grasa contra la pared."
+    },
+    {
+      "id": "p12-stent",
+      "etiqueta": "CÓMO SE HACE",
+      "texto": "Y se queda un stent: una mallita que mantiene la arteria abierta."
+    },
+    {
+      "id": "p13-hora",
+      "etiqueta": "DESPUÉS",
+      "texto": "En más o menos una hora, la sangre vuelve a pasar."
+    },
+    {
+      "id": "p14-casa",
+      "etiqueta": "DESPUÉS",
+      "texto": "Al día siguiente, Don José ya estaba en su casa."
+    },
+    {
+      "id": "p15-habitos",
+      "etiqueta": "DESPUÉS",
+      "texto": "Ahora se cuida: toma sus medicinas, come sano y camina."
+    },
+    {
+      "id": "p16-cierre",
+      "etiqueta": "C-CARDIO",
+      "texto": "¿Tienes dudas? Escríbenos. Somos C-Cardio, y cuidamos tu corazón."
+    }
+  ]
+}
